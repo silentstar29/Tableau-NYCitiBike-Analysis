@@ -11,6 +11,6 @@ Here's a brief summary of my work:
 ![fvsm](https://github.com/silentstar29/Tableau-NYCitiBike-Analysis/blob/master/images/femalevsmale.PNG)
 ![distancs](https://github.com/silentstar29/Tableau-NYCitiBike-Analysis/blob/master/images/avgdistance.PNG)
 ![repairs](https://github.com/silentstar29/Tableau-NYCitiBike-Analysis/blob/master/images/bikesforrepair.PNG)
-![map1](https://github.com/silentstar29/Tableau-NYCitiBike-Analysis/blob/master/images/map1.PNG)
+![map](https://github.com/silentstar29/Tableau-NYCitiBike-Analysis/blob/master/images/map.PNG)
 ![map2](https://github.com/silentstar29/Tableau-NYCitiBike-Analysis/blob/master/images/map2.PNG)
 
